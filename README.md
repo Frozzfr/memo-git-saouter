@@ -1,3 +1,5 @@
+#Mémo Git de Loic
+
 git init : initialise le dépot
 git status : etat des fichier
 git add : ajoute un fichier au staging
