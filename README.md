@@ -1,3 +1,5 @@
+#Mon mémo des commandes Git
+
 git init : initialise le dépot
 git status : etat des fichier
 git add : ajoute un fichier au staging
