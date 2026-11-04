@@ -1,5 +1,11 @@
 # Mémo Git de Loïc
 
+git clone : permet de cloner un dépot github sur un dossier locale
+
+```bash
+git clone git@github.com:Frozzfr/memo-git-saouter.git
+```
+
 git init : initialise le dépot
 
 ```bash
