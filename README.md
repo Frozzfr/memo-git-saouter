@@ -1,4 +1,4 @@
-#Mémo Git de Loic
+# Mémo Git de Loïc
 
 git init : initialise le dépot
 
